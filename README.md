@@ -1,4 +1,4 @@
-# Investigate_a_dataset
+# ExploratExploratory Data Analysis
 
 In this project, I went through the data analysis process and used the NumPy, pandas, and Matplotlib Python libraries to investigate the No-show Appointments Dataset.
 
