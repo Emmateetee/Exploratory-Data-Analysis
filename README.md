@@ -1,8 +1,8 @@
 # Exploratory Data Analysis
 
-In this project, I went through the data analysis process and used the NumPy, pandas, and Matplotlib Python libraries to investigate the No-show Appointments Dataset.
+In this project, I went through the data analysis process and used the NumPy, Pandas, and Matplotlib Python libraries to investigate the No-show Appointments Dataset.
 
-The No-show Appointments dataset contains 110,527 medical appointments with its 14 associated variables/features. Here is a brief description of the features in the dataset:
+The No-Show Appointments dataset contains 110,527 medical appointments with its 14 associated variables/features. Here is a brief description of the features in the dataset:
 
 <ul>
 <li>PatientId - Identification of a patient.</li>
